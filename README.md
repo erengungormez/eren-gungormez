@@ -6,7 +6,3 @@ I am a 1st year computer programming student at Uludag University. I produce pro
 Skills: Pyhton / c++ / JS / HTML / CSS / Unreal Engine / Unıty / Blender
 
 - 🔭 
-
-
-
-
