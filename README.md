@@ -19,8 +19,8 @@ A passionate game developer dedicated to creating high-quality games. I have int
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?erengungormez=MTMLYNX&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?erengungormez=MTMLYNX&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=erengungormez&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erengungormez&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" width="45%">
 </p>
 
 ---
@@ -28,5 +28,5 @@ A passionate game developer dedicated to creating high-quality games. I have int
 ## Mission: Crafting Digital Realms, Forging Unforgettable Experiences.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?erengungormez=MTMLYNX&label=Profile%20Views&color=0e75b6&style=flat" alt="erengungormez" />
+  <img src="https://komarev.com/ghpvc/?username=erengungormez&label=Profile%20Views&color=0e75b6&style=flat" alt="erengungormez" />
 </p>
