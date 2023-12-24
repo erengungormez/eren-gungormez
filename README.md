@@ -59,7 +59,11 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu erengungormez>/<seu erengungormez>/blob/output/github-contribution-grid-snake2.svg)
+name: Snake game generator from Github contributions
+
+  uses: Subtil/snk@v01.00.02
+
+
 
 ###
 
