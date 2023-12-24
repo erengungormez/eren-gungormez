@@ -54,9 +54,6 @@ advanced techno logy in Anticverse.
 
 ###
 
-<div align="center">
-  <img height="200" src="<iframe src="https://giphy.com/embed/V2ojLo7PvhVug" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-V2ojLo7PvhVug">via GIPHY</a></p>"  />
-</div>
 
 ###
 
