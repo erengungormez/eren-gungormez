@@ -18,6 +18,12 @@ advanced techno logy in Anticverse.
 
 ⚙️ Founder of **Uludag Teknoloji ve Felsefe Topluluğu** (lit. Technology and Philosophy Community), a university community at **Uludag University**.
 
+💻 Developed high-tech computer games with a focus on hypercasual and independent genres using the C# programming language and Blueprint scripting in the Unreal Engine and Unity game engines. Additionally, develop applications using the Dart language on the Flutter platform.
+
+- Working with C#, Python, C++, HTML, Sass/SCSS, Dart, Flutter. 
+- Can utilize Mattermost, ClickUp, Trello, GitHub Projects and several other tools and platforms for team coordination & project development.
+- Seasoned in Adobe Photoshop, Photoshop Lightroom, Canva and Figma for image manipulation, raster and vector graphic design.
+
 ###
 
 <div align="center">
