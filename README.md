@@ -71,8 +71,9 @@ advanced techno logy in Anticverse.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erengungormez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="<div style="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-V2ojLo7PvhVug"  />
+   />
 </div>
+![giphy](https://github.com/erengungormez/erengungormez/assets/108428306/eb65d1a7-84b7-4042-9a60-ecbcfe93ed47)
 
 ###
 
