@@ -1,5 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Knock knock, Eren;%F0%9F%94%AD+Leader+of+Technology+and+Philosophy+Community+(Uludag+University);%F0%9F%92%BB+Computer+Engineering+Student;+%F0%9F%91%80+Interested+Web+development" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Knock+knock%2C+Eren+G%C3%BCng%C3%B6rmez;%F0%9F%94%AD+Follow+the+white+rabbit...;%F0%9F%92%BB+Game+Developer+and+Educationist;+%F0%9F%91%80+Founder+of+Lodom+Creations+%26+Uluda%C4%9F+University+Technology+and+Philosophy+Comminty" alt="Typing SVG" />
+  </a>
 </p>
+
 
 
 ###
