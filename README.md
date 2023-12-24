@@ -40,8 +40,7 @@
 ![giphy](https://github.com/erengungormez/erengungormez/assets/108428306/6c8ebc46-1ef6-43fa-a669-f8357ab69d4f)
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  <!-- Add other social badges similarly -->
+  ![giphy](https://github.com/erengungormez/erengungormez/assets/108428306/6c8ebc46-1ef6-43fa-a669-f8357ab69d4f)
 </div>
 
 ###
