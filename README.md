@@ -11,17 +11,12 @@
 
 ## <img src="https://raw.githubusercontent.com/fybx/fybx/main/welcome.gif" width="20px" height="20px"/> welcome to my *unique* github profile!
 
-🎓 Studying for a Bachelor's in Computer Engineering at [Uludag University][uni].
+🎓 I am a computer programming student at **Uludağ University**.
 
-🪓 Founder and leader of [Arbeit Studio][as], a start-up developing turnkey IT solutions and websites.
+🪓 Founder **Lodom Creations**,  A ecole that aims to produce high-quality game development and VR experiences by creating immersive virtual worlds with
+advanced techno logy in Anticverse.
 
-⚙️ Founder of Uludag Teknoloji ve Felsefe Topluluğu (lit. Technology and Philosophy Community), a university community at [Uludag University][uni].
-
-💻 Developed cross-platform & Windows desktop applications with .NET and understand software development life cycle well.
-- Working with C#, Python, C, Rust, HTML, Sass/SCSS, JavaScript, LaTeX. 
-- Can utilize Git, Mattermost, ClickUp, Trello, GitHub Projects and several other tools and platforms for team coordination & project development.
-- Seasoned in Adobe Photoshop, Illustrator, InDesign, Photoshop Lightroom, and Figma for image manipulation, raster and vector graphic design.
-- My primary interests and research domains are: **systems development**, **computer architecture**, **programming languages**, **telecommunication**, **information security**, **cryptography**.
+⚙️ Founder of **Uludag Teknoloji ve Felsefe Topluluğu** (lit. Technology and Philosophy Community), a university community at **Uludag University**.
 
 ###
 
