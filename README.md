@@ -75,7 +75,6 @@ advanced techno logy in Anticverse.
   <div align="center">
   <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
 </div>
-###
 
 <br clear="both">
 
