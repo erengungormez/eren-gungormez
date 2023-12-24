@@ -89,13 +89,3 @@ _[](https://github.com/erengungormez)_
 
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
-</div>
-
-###
-
-</div>
-
-###
