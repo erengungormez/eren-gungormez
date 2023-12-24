@@ -65,7 +65,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_ (https://github.com/erengungormez)_
+_(https://github.com/erengungormez)_
 
 
 ###
@@ -76,8 +76,6 @@ _ (https://github.com/erengungormez)_
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@erengungormez" alt="Layout with last medium posts"  />
 </div>
 
 ###
