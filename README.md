@@ -55,28 +55,19 @@ advanced techno logy in Anticverse.
 ###
 
 <div align="center">
-  <img src="https://github.com/erengungormez/erengungormez/assets/108428306/c55144e5-b1bb-4c2d-8270-702459080b6c" alt="giphy" />
+  <img height="200" src="<iframe src="https://giphy.com/embed/V2ojLo7PvhVug" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-V2ojLo7PvhVug">via GIPHY</a></p>"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="erengungormez4@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/erengungormez/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://medium.com/@erengungormez">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo" />
-  </a>
-  <a href="https://www.instagram.com/erenggmz/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
 </div>
 
-
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erengungormez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -84,7 +75,7 @@ advanced techno logy in Anticverse.
   <div align="center">
   <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
 </div>
-
+###
 
 <br clear="both">
 
@@ -96,5 +87,15 @@ advanced techno logy in Anticverse.
 
 _[](https://github.com/erengungormez)_
 
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
+</div>
+
+###
+
+</div>
 
 ###
