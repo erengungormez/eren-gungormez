@@ -54,8 +54,8 @@ advanced techno logy in Anticverse.
 
 ###
 
-<div align="center">
-  <img height="200" src="<iframe src="https://giphy.com/embed/V2ojLo7PvhVug" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-V2ojLo7PvhVug">via GIPHY</a></p>"  />
+<div align="right">
+  <img src="https://github.com/erengungormez/erengungormez/assets/108428306/c55144e5-b1bb-4c2d-8270-702459080b6c" alt="giphy" />
 </div>
 
 ###
@@ -87,15 +87,5 @@ advanced techno logy in Anticverse.
 
 _[](https://github.com/erengungormez)_
 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
-</div>
-
-###
-
-</div>
 
 ###
