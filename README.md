@@ -54,7 +54,7 @@ advanced techno logy in Anticverse.
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github.com/erengungormez/erengungormez/assets/108428306/c55144e5-b1bb-4c2d-8270-702459080b6c" alt="giphy" />
 </div>
 
