@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=500&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%91%8B+Knock+knock%2C+Eren+G%C3%BCng%C3%B6rmez;%F0%9F%90%B0+Follow+the+white+rabbit...;%F0%9F%92%BB+Game+Developer+and+Educationist;%F0%9F%91%80+Founder+of+Lodom+Creations+%26+Uludag+Technology+and+Philosophy" alt="Typing SVG" style="color:#00CC00"/>
   </a>
@@ -53,10 +53,10 @@ advanced techno logy in Anticverse.
 </div>
 
 ###
-<div align="center">
-  <img src="https://github.com/erengungormez/erengungormez/assets/108428306/c55144e5-b1bb-4c2d-8270-702459080b6c" alt="giphy" />
-</div>
 
+<div align="center">
+  <img height="200" src="<iframe src="https://giphy.com/embed/V2ojLo7PvhVug" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-V2ojLo7PvhVug">via GIPHY</a></p>"  />
+</div>
 
 ###
 
@@ -75,6 +75,7 @@ advanced techno logy in Anticverse.
   <div align="center">
   <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
 </div>
+###
 
 <br clear="both">
 
@@ -86,3 +87,15 @@ advanced techno logy in Anticverse.
 
 _[](https://github.com/erengungormez)_
 
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
+</div>
+
+###
+
+</div>
+
+###
