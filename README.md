@@ -87,5 +87,3 @@ advanced techno logy in Anticverse.
 
 _[](https://github.com/erengungormez)_
 
-
-###
