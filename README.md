@@ -71,10 +71,10 @@ advanced techno logy in Anticverse.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erengungormez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-   />
-
-![giphy](https://github.com/erengungormez/erengungormez/assets/108428306/8ebd3648-389a-4892-99cb-57e36d736653)
-
+  
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/erengungormez/count.svg?"  />
+</div>
 ###
 
 <br clear="both">
